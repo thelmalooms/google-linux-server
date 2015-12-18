@@ -153,8 +153,8 @@ include library projects are beyond the scope of this lesson, you can get up to 
 their creation at the following links:</p>
 <ul>
 <li><a
-href="{@docRoot}tools/projects/projects-eclipse.html#SettingUpLibraryProject">Setting up
-a library project (Eclipse)</a></li>
+href="{@docRoot}sdk/installing/create-project.html#SettingUpLibraryModule">Setting up
+a library module (Android Studio)</a></li>
 <li><a
 href="{@docRoot}tools/projects/projects-cmdline.html#SettingUpLibraryProject">Setting up
 a library project (Command line)</a></li>

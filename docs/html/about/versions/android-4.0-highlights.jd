@@ -914,8 +914,8 @@ supporting flatter view hierarchies that are faster to layout and render.
 Because hierarchies are flatter, developers can also manage alignments between
 components that are visually related to each other even when they are not
 logically related, for precise control over application UI. GridLayout is also
-specifically designed to be configured by drag-and-drop design tools such as the
-ADT Plug-in for Eclipse.</p>
+specifically designed to be configured by drag-and-drop design tools such as 
+Android Studio.</p>
 
 
 <p style="margin-top:1em;margin-bottom:.75em;"><strong>OpenGL ES texture

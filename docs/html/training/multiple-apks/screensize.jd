@@ -118,7 +118,7 @@ everything else".  Coloring in the chart also makes intra-team communication eas
 now simply refer to each APK as "blue", "green", or "red", no matter how many different screen types
 it covers.</p>
 
-<h2 id="CreateLibrary">Put All Common Code and Resources in a Library Project.</h2>
+<h2 id="CreateLibrary">Put All Common Code and Resources in a Library Project</h2>
 <p>Whether you’re modifying an existing Android application or starting one from scratch, this is
 the first thing that you should do to the codebase, and by the far the most important.  Everything
 that goes into the library project only needs to be updated once (think language-localized strings,
@@ -130,8 +130,8 @@ include library projects are beyond the scope of this lesson, you can get up to 
 their creation at the following links:</p>
 <ul>
 <li><a
-href="{@docRoot}tools/projects/projects-eclipse.html#SettingUpLibraryProject">Setting up
-a library project (Eclipse)</a></li>
+href="{@docRoot}sdk/installing/create-project.html#SettingUpLibraryModule">Setting up
+a library module (Android Studio)</a></li>
 <li><a
 href="{@docRoot}tools/projects/projects-cmdline.html#SettingUpLibraryProject">Setting up
 a library project (Command line)</a></li>

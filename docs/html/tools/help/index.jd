@@ -157,8 +157,8 @@ device.</p>
 
 <p>The other platform tools, such as <a href="{@docRoot}guide/components/aidl.html">aidl</a>,
 <code>aapt</code>, <code>dexdump</code>, and <code>dx</code>, are typically called by the Android
-build tools or Android Development Tools (ADT), so you rarely need to invoke these tools directly.
-As a general rule, you should rely on the build tools or the ADT plugin to call them as needed.</p>
+build tools, so you rarely need to invoke these tools directly.
+As a general rule, you should rely on the build tools to call them as needed.</p>
 
 <p class="note"><strong>Note:</strong> The Android SDK provides additional shell tools that can
 be accessed through <code>adb</code>, such as <a href="{@docRoot}tools/help/bmgr.html">bmgr</a> and

@@ -171,7 +171,6 @@ available Android-powered devices.</li>
 <li>Adds new Ant build system with support for Emma instrumentation projects
 (code coverage).</li> 
 <li>Fixes emulator skins to properly emulate d-pad in landscape mode.</li> 
-<li>Fixes density rendering in the layout editor in ADT.</li> 
 </ul> 
 </dd>
 </dl>

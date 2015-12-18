@@ -169,7 +169,7 @@ boot, you also have swanky codenames for each one, since "Have we tested red on 
 easier to ask your cubie than "Have we tested  the 3-to-10 xlarge APK against the Xoom?"  Print this
 chart out and hand it to every person working on your codebase.  Life just got a lot easier.</p>
 
-<h2 id="CreateLibrary">Put All Common Code and Resources in a Library Project.</h2>
+<h2 id="CreateLibrary">Put All Common Code and Resources in a Library Project</h2>
 
 <p>Whether you’re modifying an existing Android application or starting one from scratch, this is
 the first thing that you should do to the codebase, and by the far the most important.  Everything
@@ -182,8 +182,8 @@ include library projects are beyond the scope of this lesson, you can get up to 
 their creation at the following links:</p>
 <ul>
 <li><a
-href="{@docRoot}tools/projects/projects-eclipse.html#SettingUpLibraryProject">Setting up
-a library project (Eclipse)</a></li>
+href="{@docRoot}sdk/installing/create-project.html#SettingUpLibraryModule">Setting up
+a library module (Android Studio)</a></li>
 <li><a
 href="{@docRoot}tools/projects/projects-cmdline.html#SettingUpLibraryProject">Setting up
 a library project (Command line)</a></li>
